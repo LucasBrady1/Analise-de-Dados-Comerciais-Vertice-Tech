@@ -51,7 +51,8 @@ Este projeto tem como objetivo apresentar um **dashboard interativo** desenvolvi
 Fique à vontade para entrar em contato:
 
 - 📧 lsoaresbrady@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-soares-brady-459761165/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-soares-brady-459761165/)
+- 📱 Celular: (27) 99578-4869
 
 ---
 
